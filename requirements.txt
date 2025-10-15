@@ -1,0 +1,17 @@
+torch
+torchvision
+ftfy
+regex
+tqdm
+Pillow
+matplotlib
+numpy
+git+https://github.com/openai/CLIP.git
+
+# Vector Database
+chromadb
+
+# API Server
+flask
+flask-cors
+
