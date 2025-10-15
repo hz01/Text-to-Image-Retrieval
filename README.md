@@ -265,7 +265,9 @@ See `requirements.txt` for complete list.
 
 ## License
 
-This project uses OpenAI's CLIP model. Please refer to the [CLIP repository](https://github.com/openai/CLIP) for licensing information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project uses OpenAI's CLIP model, which is also under the MIT License. See the [CLIP repository](https://github.com/openai/CLIP) for more information.
 
 
 ## Acknowledgments
