@@ -267,27 +267,12 @@ See `requirements.txt` for complete list.
 
 This project uses OpenAI's CLIP model. Please refer to the [CLIP repository](https://github.com/openai/CLIP) for licensing information.
 
-## Contributing
-
-Contributions are welcome! Areas for improvement:
-- Support for additional CLIP models
-- Advanced filtering options
-- Image upload via web UI
-- Multi-language support
-- Batch API endpoints
 
 ## Acknowledgments
 
 - OpenAI for the CLIP model
 - ChromaDB team for the vector database
 - PyTorch community
-
-## Support
-
-For issues or questions:
-1. Check the Troubleshooting section
-2. Review configuration in `config.py`
-3. Ensure all dependencies are installed correctly
 
 ---
 
